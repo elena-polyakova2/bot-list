@@ -11,3 +11,5 @@ Type the name of a cat bot or a letter from its name in the search box to find i
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Contributions
+Thank you to the authors of the course **Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)** from *Zero to Mastery*.
